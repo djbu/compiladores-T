@@ -1,0 +1,15 @@
+aki esta el MVC del profesor con algunas modificaciones hechas por mi hoy...
+le agregue a la clase figura un atributo entero tipo el cual es asi:
+traductor = 1
+interprete = 2
+programa = 3
+maquina = 4
+ con click derecho generas un traductor y si haces click sobre el
+cambias a interprete y asi sucesivamente... con el boton del medio del
+mouse eliminas la figura... y el izquierdo las arrastra... me parece
+que esta bien validado... use poligonos(para maquina), rectangulos(que
+se usa en todas) y circulos (para programa)... supongo que usaremos
+textFields sobre cada objeto... no se si es java.awt.textField... y
+hay que usar db4o... pero creo que es con eso podemos comenzar...
+
+hello world !! 
